@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="roydb@localhost" uuid="d7f2c5ac-45c3-4ba0-b40d-75a21f9fb5f3">
+      <database-info product="PostgreSQL" version="10.3 (Ubuntu 10.3-1)" jdbc-version="4.2" driver-name="PostgreSQL JDBC Driver" driver-version="42.2.2">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>royj</user-name>
+      <introspection-schemas>roydb:public</introspection-schemas>
+    </data-source>
+  </component>
+</project>
